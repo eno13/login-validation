@@ -4,7 +4,7 @@ session_start();
 
 if($_SERVER["REQUEST_METHOD"] == "POST") {
     // username and password sent from form
-
+    //second git commit
 
     $myusername = mysqli_real_escape_string($conn,$_POST['email']);
     $mypassword = mysqli_real_escape_string($conn,$_POST['password']);
