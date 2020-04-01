@@ -94,13 +94,6 @@ Remember Me
           <!-- /.col -->
         </div>
       </form>
-
-      <div class="social-auth-links text-center mb-3">
-        <p>- OR -</p>
-        <a href="#" class="btn btn-block btn-primary">
-          <i class="fab fa-facebook mr-2"></i> Sign in using Facebook
-</a>
-      </div>
       <!-- /.social-auth-links -->
 
       <p class="mb-1">

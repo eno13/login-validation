@@ -41,9 +41,6 @@
       <li class="nav-item nav-item d-none d-sm-inline-block">
         <a href="#" class="nav-link">Home</a>
       </li>
-      <li class="nav-item d-none d-sm-inline-block">
-        <a href="#" class="nav-link">Contact</a>
-      </li>
     </ul>
 
     <!-- SEARCH FORM -->
@@ -63,6 +60,7 @@
       <!-- Messages Dropdown Menu -->
       <li class="nav-item">
         <a class="nav-link"  href="/pages/logout.php">
+            <i>Logout</i>
             <i class="fas fa-sign-out-alt"></i>
         </a>
       </li>
